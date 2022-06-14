@@ -1,0 +1,28 @@
+body {
+  background-color: #fcd5ce;
+  padding-bottom: 2%;
+}
+
+img {
+  border-radius: 4%;
+  padding: auto;
+}
+
+.same {
+  text-decoration: double underline;
+  text-transform: uppercase;
+  font-style: italic;
+  color: #6f1d1b;
+}
+
+p,
+li {
+  color: #403d39;
+  padding: 0.2%;
+}
+
+a:hover {
+  color: #eeef20;
+  font-size: large;
+  text-decoration: none;
+}
